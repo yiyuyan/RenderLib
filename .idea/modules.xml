@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/RenderLib.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/RenderLib.forge.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/RenderLib.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/RenderLib.forge.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/RenderLib.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/RenderLib.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/cn.ksmcbrigade.RenderLib.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/cn.ksmcbrigade.RenderLib.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/cn.ksmcbrigade.RenderLib.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/cn.ksmcbrigade.RenderLib.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/cn.ksmcbrigade.RenderLib.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/cn.ksmcbrigade.RenderLib.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/cn.ksmcbrigade.RenderLib.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/cn.ksmcbrigade.RenderLib.neoforge.main.iml" />
     </modules>
   </component>
 </project>

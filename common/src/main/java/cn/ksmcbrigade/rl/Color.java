@@ -9,7 +9,7 @@ public record Color(int r, int g, int b, float a) {
     }
 
     public static Color parse(int hex,int len){
-        return new Color(hex >> 16 & 0xFF,hex >> 8 & 0xFF,hex & 0xFF,len==8?(hex >> 24 & 0xFF):0xFF);
+        return new Color(hex >> 16 & 0xFF,hex >> 8 & 0xFF,hex & 0xFF, (float) (len == 8 ? (hex >> 24 & 0xFF) : 0xFF) / 0xFF);
     }
 
     public static Color parse(String color){
